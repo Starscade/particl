@@ -11,7 +11,7 @@
 	--mg:#333;
 	--pg:#222;
 	--pt:18pt;
-	--font:'Weak',serif;
+	--font:'Weak',sans-serif;
 	--rad:calc(var(--pt)/3);
 	--shado:#000;
 	cursor:/* url('./cur.png')-12 -12, */cell;
